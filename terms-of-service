@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Terms of Service</title>
+<style>
+body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
+h1 { color: #2c3e50; }
+</style>
+</head>
+<body>
+
+<h1>Terms of Service</h1>
+<p>These terms of service govern your use of our website. By using the website, you accept these terms in full.</p>
+
+<h2>License to Use Website</h2>
+<p>Unless otherwise stated, we own the intellectual property rights in the website and material on the website.</p>
+
+<h2>Acceptable Use</h2>
+<p>You must not use our website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website.</p>
+
+<h2>User Content</h2>
+<p>By submitting content to our website, you grant us a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate, and distribute the content.</p>
+
+<h2>Limitation of Liability</h2>
+<p>We will not be liable for any loss or damage of any nature.</p>
+
+<h2>Changes to These Terms</h2>
+<p>We may revise these terms from time to time. Revised terms will apply to the use of our website from the date of publication.</p>
+
+<h2>Contact Us</h2>
+<p>If you have any questions about these terms, please contact us:</p>
+<ul>
+<li><strong>By email:</strong> example@example.com</li>
+</ul>
+
+</body>
+</html>
