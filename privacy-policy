@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<style>
+body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
+h1 { color: #2c3e50; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p>Your privacy is important to us. This privacy policy explains what personal data we collect and how we use it.</p>
+<h2>Information We Collect</h2>
+<ul>
+    <li><strong>Personal Data:</strong> Information that identifies you.</li>
+    <li><strong>Usage Data:</strong> Information on how the service is accessed and used.</li>
+</ul>
+
+<h2>How We Use Your Data</h2>
+<ul>
+    <li><strong>To Provide and Maintain the Service:</strong> Ensure the service is running smoothly.</li>
+    <li><strong>To Notify You About Changes:</strong> Inform you about modifications to our services.</li>
+    <li><strong>To Provide Customer Support:</strong> Assist you with any issues you encounter.</li>
+    <li><strong>To Gather Analysis for Improvement:</strong> Understand how to improve our services.</li>
+</ul>
+
+<h2>Data Security</h2>
+<p>We use commercially acceptable methods to protect your personal data, but no method of transmission over the Internet is 100% secure.</p>
+
+<h2>Changes to This Privacy Policy</h2>
+<p>We may update this policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.</p>
+
+<h2>Contact Us</h2>
+<p>If you have any questions about this privacy policy, please contact us:</p>
+<ul>
+    <li><strong>By email:</strong> example@example.com</li>
+</ul>
+
+</body>
+</html>
